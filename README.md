@@ -1,4 +1,4 @@
-Brief descriptions of each Program :-
+Brief description of Program :-
 
 • **Resolving Multiple-Inheritance Ambiguity :-**
 
