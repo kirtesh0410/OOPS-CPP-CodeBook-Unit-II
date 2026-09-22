@@ -1,6 +1,6 @@
 Brief description of Program :-
 
-• **15)Mini-Project :- Vehicle Rental System :-**
+• **Mini-Project :- Vehicle Rental System :-**
 
 This C++ program implements an **inheritance-based Vehicle Rental System** using a base `Vehicle` class and derived vehicle classes.
 
