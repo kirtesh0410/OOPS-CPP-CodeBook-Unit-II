@@ -1,6 +1,6 @@
 Brief description ofProgram :-
 
-• **14)Nested Class :-**
+• **Nested Class :-**
 
 This C++ program demonstrates the creation and use of a **nested class**, which is a class defined inside another class.
 
